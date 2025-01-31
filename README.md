@@ -1,4 +1,5 @@
-Hi there, I'm Clain Mursoi 👋
+Hi there, I'm Clain Mursoi 👋  
+
 Welcome to my GitHub! I'm a third-year student currently studying Computer Science. I'm passionate about software development and AI engineering. I love exploring new technologies and working on projects that challenge me to learn and grow.
 
 🚀 About Me:
@@ -17,6 +18,7 @@ Welcome to my GitHub! I'm a third-year student currently studying Computer Scien
 - PyTorch
 - SQL
 - Git & GitHub
+  
 📬 Let's Connect:
 - LinkedIn: Clain Mursoi
 - Instagram: @_clain
