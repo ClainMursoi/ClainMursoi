@@ -24,4 +24,5 @@ Welcome to my GitHub! I'm a third-year student currently studying Computer Scien
 - Instagram: @_clain
 - TikTok: @_clain
 - 📱 Phone: +254707383703 (Feel free to reach out!)
+  
 Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate on any exciting projects!
