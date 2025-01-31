@@ -18,8 +18,8 @@ Welcome to my GitHub! I'm a third-year student currently studying Computer Scien
 - SQL
 - Git & GitHub
 📬 Let's Connect:
--LinkedIn: Clain Mursoi
--Instagram: @_clain
--TikTok: @_clain
--📱 Phone: +254707383703 (Feel free to reach out!)
+- LinkedIn: Clain Mursoi
+- Instagram: @_clain
+- TikTok: @_clain
+- 📱 Phone: +254707383703 (Feel free to reach out!)
 Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate on any exciting projects!
