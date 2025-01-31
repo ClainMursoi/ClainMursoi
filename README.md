@@ -9,14 +9,14 @@ Welcome to my GitHub! I'm a third-year student currently studying Computer Scien
 📈 GitHub Stats:
 
 🔧 Languages and Tools:
--Python
--JavaScript
--Java
--C++
--TensorFlow
--PyTorch
--SQL
--Git & GitHub
+- Python
+- JavaScript
+- Java
+- C++
+- TensorFlow
+- PyTorch
+- SQL
+- Git & GitHub
 📬 Let's Connect:
 -LinkedIn: Clain Mursoi
 -Instagram: @_clain
